@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**ksamaarora/ksamaarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do data science and machine learning. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :bookmark_tabs: Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [How to Deploy Machine Learning Models with Azure Machine Learning](https://ksamaarora.com/blog/how-to-deploy-machine-learning-models)
+- [Managed Online vs Batch Endpoints for Model Deployment in Azure](https://ksamaarora.com/blog/deploy-and-consume-ml-models-with-azure-ml)
+- [Designing and Implementing Data Science Solution on Azure (DP-100)](https://ksamaarora.com/blog/dp100)
+- [How to Auto-Train Machine Learning Model](https://ksamaarora.com/blog/auto-train-ml-model)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://ksamaarora.com/blog/azure-ai)
+<!-- BLOG-POST-LIST:END -->
+
+
+> ![](https://komarev.com/ghpvc/?username=ksamaarora&color=green)

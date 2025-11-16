@@ -17,6 +17,7 @@ Currently exploring **OpenShift AI**, **MCP-based tooling**, and **AI agents**.
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://ksamaarora.com/blog/azure-ai)
 <!-- BLOG-POST-LIST:END -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksamaarora&theme=github)
+<!-- overall stats -->
+![Ksama's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksamaarora&show_icons=true&theme=transparent)
 
 > ![](https://komarev.com/ghpvc/?username=ksamaarora&color=green)

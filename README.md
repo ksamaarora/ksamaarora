@@ -20,6 +20,9 @@ Currently exploring **OpenShift AI**, **MCP-based tooling**, and **AI agents**.
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Applied LLMs Blogs](https://github.com/ksamaarora/notes-repo/tree/main/Applied%20LLMs)
+- [What is k8?](https://github.com/ksamaarora/notes-repo/blob/main/Kubernetes/Kubernetes.pdf)
+- [Docker CheatSheet](https://github.com/ksamaarora/notes-repo/tree/8c5cbe375f3119c41e1e77ed441ebf8d378b3ea6/Docker)
 - [How to Deploy Machine Learning Models with Azure Machine Learning](https://ksamaarora.com/blog/how-to-deploy-machine-learning-models)
 - [Managed Online vs Batch Endpoints for Model Deployment in Azure](https://ksamaarora.com/blog/deploy-and-consume-ml-models-with-azure-ml)
 - [Designing and Implementing Data Science Solution on Azure (DP-100)](https://ksamaarora.com/blog/dp100)

@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I’m Ksama
 
-I do data science and machine learning. 
+I like building things around **machine learning, infrastructure, and automation**.
 
+Previously, I worked as a **Software Development Engineer Intern at Texas Instruments**.
 
-### :bookmark_tabs: Latest Blog posts
+I work with **Python, MLOps, Docker, Kubernetes, Linux** and **Azure**.  
+Currently exploring **OpenShift AI**, **MCP-based tooling**, and **AI agents**.
+
+### Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [How to Deploy Machine Learning Models with Azure Machine Learning](https://ksamaarora.com/blog/how-to-deploy-machine-learning-models)
 - [Managed Online vs Batch Endpoints for Model Deployment in Azure](https://ksamaarora.com/blog/deploy-and-consume-ml-models-with-azure-ml)
@@ -12,5 +17,6 @@ I do data science and machine learning.
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://ksamaarora.com/blog/azure-ai)
 <!-- BLOG-POST-LIST:END -->
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ksamaarora&theme=github)
 
 > ![](https://komarev.com/ghpvc/?username=ksamaarora&color=green)

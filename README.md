@@ -11,12 +11,9 @@ Currently exploring **OpenShift AI**, **MCP-based tooling**, and **AI agents**.
 
 ### Community & Open Source
 
-- Core member of the **FOSS Club, NMIMS Mumbai** (Jul 2024 – Aug 2025), under [FOSS United](https://fossunited.org) — a non-profit foundation promoting Free and Open Source Software Ecosystem in India.
-  👉 [FOSS United](https://fossunited.org)
+- Core member of the **FOSS Club, NMIMS Mumbai** (Jul 2024 – Aug 2025), under FOSS United, a non-profit foundation promoting Free and Open Source Software Ecosystem in India.<br>[FOSS United](https://fossunited.org)
 
-- Recent Events: **MumbaiFOSS 2025**, Mumbai’s biggest Open Source Conference hosted at NMIMS Mumbai on 19 April 2025, bringing students, maintainers, and practitioners together around FOSS, DevOps, and cloud-native tech.  
-  👉 [Recap](https://www.linkedin.com/posts/foss-united-mumbai_mumbaifoss-2025-was-a-blast-an-open-source-activity-7322849851413549056-Qgr0)
-  👉 [Announcement](https://www.linkedin.com/posts/foss-united-mumbai_mumbaifoss-2025-is-officially-live-we-activity-7319240536547033088-gh67)
+- Recent Events: **MumbaiFOSS 2025**, Mumbai’s biggest Open Source Conference hosted at NMIMS Mumbai on 19 April 2025, bringing students, maintainers, and practitioners together around FOSS, DevOps, and cloud-native tech.<br>[Recap](https://www.linkedin.com/posts/foss-united-mumbai_mumbaifoss-2025-was-a-blast-an-open-source-activity-7322849851413549056-Qgr0)<br>[Announcement](https://www.linkedin.com/posts/foss-united-mumbai_mumbaifoss-2025-is-officially-live-we-activity-7319240536547033088-gh67)
 
 - We also **run workshops, hands-on sessions, and hackathons** across Mumbai colleges to help students get started with **Linux, containers, Kubernetes, and open-source contribution workflows**.
 
